@@ -1,0 +1,16 @@
+borough,descriptor,closed_requests,median_closure_days,mean_closure_days
+BRONX,Cave-in,1260,3.79,6.06
+BRONX,Failed Street Repair,299,3.9,5.93
+BRONX,Pothole,3801,2.06,3.12
+BROOKLYN,Cave-in,3357,2.9,3.94
+BROOKLYN,Failed Street Repair,1030,3.06,5.48
+BROOKLYN,Pothole,8519,0.9,1.54
+MANHATTAN,Cave-in,1019,1.22,2.61
+MANHATTAN,Failed Street Repair,449,1.78,4.22
+MANHATTAN,Pothole,5524,0.9,1.53
+QUEENS,Cave-in,3492,2.15,3.34
+QUEENS,Failed Street Repair,1346,3.01,6.28
+QUEENS,Pothole,13592,0.84,1.12
+STATEN ISLAND,Cave-in,513,0.92,3.31
+STATEN ISLAND,Failed Street Repair,363,0.9,2.61
+STATEN ISLAND,Pothole,3734,1.12,1.88

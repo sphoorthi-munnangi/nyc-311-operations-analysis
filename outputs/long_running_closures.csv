@@ -1,0 +1,16 @@
+borough,descriptor,eligible_closed_requests,requests_over_7_days,over_7_days_pct
+BRONX,Cave-in,1260,318,25.24
+BRONX,Failed Street Repair,299,83,27.76
+BRONX,Pothole,3801,349,9.18
+BROOKLYN,Cave-in,3357,430,12.81
+BROOKLYN,Failed Street Repair,1030,180,17.48
+BROOKLYN,Pothole,8519,53,0.62
+MANHATTAN,Cave-in,1019,38,3.73
+MANHATTAN,Failed Street Repair,449,38,8.46
+MANHATTAN,Pothole,5524,9,0.16
+QUEENS,Cave-in,3492,227,6.5
+QUEENS,Failed Street Repair,1346,198,14.71
+QUEENS,Pothole,13592,42,0.31
+STATEN ISLAND,Cave-in,513,21,4.09
+STATEN ISLAND,Failed Street Repair,363,14,3.86
+STATEN ISLAND,Pothole,3734,152,4.07

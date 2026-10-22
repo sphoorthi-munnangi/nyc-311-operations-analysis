@@ -19,3 +19,9 @@ __pycache__/
 # Editor temporary files
 *.swp
 *~
+
+# Tableau temporary and recovery files
+.~*.twbr
+
+# Tableau packaged workbooks containing embedded data
+*.twbx

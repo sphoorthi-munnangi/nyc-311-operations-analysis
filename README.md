@@ -8,6 +8,14 @@ New York City 311 street maintenance service requests.
 The project investigates operational workloads, administrative closure
 times, geographic patterns, and opportunities for process improvement.
 
+## Interactive Tableau Dashboard
+
+[**Explore the interactive NYC 311 Operations Dashboard on Tableau Public**](https://public.tableau.com/views/NYC_311_Operations_Dashboard/NYC311OperationsDashboard)
+
+[![NYC 311 Operations Dashboard Preview](images/nyc311_dashboard.png)](https://public.tableau.com/views/NYC_311_Operations_Dashboard/NYC311OperationsDashboard)
+
+The dashboard includes three operational KPIs, unresolved requests by borough, median administrative closure times, monthly request trends, and an interactive borough filter.
+
 ## Business Problem
 
 How can NYC street maintenance operations teams use service-request

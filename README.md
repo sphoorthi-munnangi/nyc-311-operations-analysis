@@ -16,6 +16,21 @@ times, geographic patterns, and opportunities for process improvement.
 
 The dashboard includes three operational KPIs, unresolved requests by borough, median administrative closure times, monthly request trends, and an interactive borough filter.
 
+## Business Insights & Recommendations
+
+The analysis identifies geographic differences in unresolved requests,
+variations in administrative closure times, and opportunities for
+operational performance monitoring.
+
+Key recommendations include investigating the concentration of
+unresolved requests in Queens, reviewing longer closure times for
+specific complaint categories, and establishing consistent KPI monitoring.
+
+**[Read the Business Insights & Recommendations Report](docs/business_insights.md)**
+
+The report includes an executive summary, detailed operational findings,
+business implications, five recommendations, and suggested success measures.
+
 ## Business Problem
 
 How can NYC street maintenance operations teams use service-request
